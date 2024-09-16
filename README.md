@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1542835125/photo/business-meeting-graph-and-digital-tablet-for-people-in-office-with-budget-statistics-and.jpg?s=612x612&w=0&k=20&c=99zh5E87Vif3Bqm2SPxj7yg7_fCBnR6hzoH5v7OHrrQ=">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jegson-ux&label=Profile%20views&color=0e75b6&style=flat" alt="jegson-ux" /> </p>
 
-I am a data analyst in Nigeria, I can apply my skills to transform raw data into actionable insights that drive business growth and informed decision-making, with a detailed eye for detail and a passion for storytelling through visuals. I have advanced skills in using Microsoft Excel, Power BI, and SQL, and I have successfully applied into projects
+I am a data analyst from Nigeria, I can apply my skills to transform raw data into actionable insights that drive business growth and informed decision-making, with a detailed eye for detail and a passion for storytelling through visuals. I have advanced skills in using Microsoft Excel, Power BI, and SQL, and I have successfully applied into projects
 
 - Collect, analyze, and interpret complex data sets to identify trends, patterns, and correlations
 - Develop and maintain databases, reports, and dashboards to visualize key metrics and KPIs
