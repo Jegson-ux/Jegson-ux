@@ -4,6 +4,15 @@
 <img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1542835125/photo/business-meeting-graph-and-digital-tablet-for-people-in-office-with-budget-statistics-and.jpg?s=612x612&w=0&k=20&c=99zh5E87Vif3Bqm2SPxj7yg7_fCBnR6hzoH5v7OHrrQ=">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jegson-ux&label=Profile%20views&color=0e75b6&style=flat" alt="jegson-ux" /> </p>
 
+I am a Data Analyst. I  transform raw data into actionable insights that drive business growth and informed decision-making. With a detailed eye for detail and a passion for storytelling through visuals 
+
+- Collect, analyze, and interpret complex data sets to identify trends, patterns, and correlations
+- Develop and maintain databases, reports, and dashboards to visualize key metrics and KPIs
+- Collaborate with stakeholders to understand business needs and deliver tailored analytics solutions
+- Communicate findings and recommendations to both technical and non-technical audiences
+- Stay up-to-date with industry trends and emerging tools to continuously improve my skills and expertise
+
+
 - 🔭 I’m currently working on **Historical Analysis of Bitcoin**
 
 - 🌱 I’m currently learning **Python,MySQl**
